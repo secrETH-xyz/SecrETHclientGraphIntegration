@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@graphprotocol/client-cli": "^2.2.15"
+  },
+  "dependencies": {
+    "graphql-tag": "^2.12.6"
+  }
+}
