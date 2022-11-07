@@ -3,6 +3,8 @@
     "@graphprotocol/client-cli": "^2.2.15"
   },
   "dependencies": {
+    "@apollo/client": "^3.7.1",
+    "graphql": "^16.6.0",
     "graphql-tag": "^2.12.6"
   }
 }
